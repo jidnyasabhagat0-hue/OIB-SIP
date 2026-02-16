@@ -9,11 +9,11 @@ Level 2 – Intermediate Web Development Project
 
 Technologies Used
 
-HTML
+• HTML
 
-CSS
+• CSS
 
-JavaScript
+• JavaScript
 
 Project Description
 
