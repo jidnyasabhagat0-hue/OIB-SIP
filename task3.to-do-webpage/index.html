@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Daily Tasks Demo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Daily Task Tracker</h1>
+
+<div class="add-box">
+    <input id="taskInput" placeholder="Enter a task...">
+    <button onclick="addTask()">Add</button>
+</div>
+
+<div class="board">
+
+    <div class="column">
+        <h2>Pending</h2>
+        <ul id="pending"></ul>
+    </div>
+
+    <div class="column">
+        <h2>Completed</h2>
+        <ul id="completed"></ul>
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
